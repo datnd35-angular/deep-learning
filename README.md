@@ -127,7 +127,7 @@ Có hai cách để lập trình máy tính thực hiện một nhiệm vụ:
 - **Perceptron**: Mạng nơ-ron một lớp (feedforward), do Frank Rosenblatt phát minh năm 1957.
 - **Ký hiệu:**
   - \( y \): Giá trị thực (actual value).
-  - \( \hat{y} \): Giá trị dự đoán (predicted value).
+  - \(y^): Giá trị dự đoán (predicted value).
 
 ---
 
