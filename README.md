@@ -136,8 +136,9 @@ Có hai cách để lập trình máy tính thực hiện một nhiệm vụ:
 ***Quy trình học:***
 1. **Dự đoán**: Mạng nơ-ron tính toán \( \hat{y} \) từ dữ liệu đầu vào.
 2. **Tính lỗi**: Sử dụng hàm chi phí (cost function), ví dụ:  
-   \( C = \frac{1}{2} (y - \hat{y})^2 \)
-3. **Cập nhật trọng số**: Dựa trên lỗi, điều chỉnh các trọng số \( W_1, W_2, \dots \).
+   <img width="155" alt="image" src="https://github.com/user-attachments/assets/dd7babfa-ac80-4d0e-9877-f1828de1cb34" />
+3. **Cập nhật trọng số**: Dựa trên lỗi, điều chỉnh các trọng số:
+<img width="155" alt="image" src="https://github.com/user-attachments/assets/604e5def-cf8a-4ce9-8630-ebfa86d82018" />
 
 ***Minh họa đơn giản:***
 - Đầu vào: Giờ học, giờ ngủ, điểm kiểm tra giữa kỳ.
